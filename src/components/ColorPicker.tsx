@@ -11,7 +11,7 @@ const ColorPicker = () => {
           <SelectColorButton color='#FFD800' />
           <SelectColorButton color='#00FF01' />
         </div>
-        <div className="mx-auto my-4 flex justify-center space-x-4">
+        <div className="mx-auto my-4 flex justify-center space-x-4" >
           <SelectColorButton color='#FFFFFF' />
           <SelectColorButton color='#01FFFF' />
           <SelectColorButton color='#0094FE' />
